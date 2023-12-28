@@ -1,1 +1,2 @@
 # Health-stages-division-and-determination-of-fault-occurence-time-of-Bearings
+• Identified deteriorating health stages in rolling element bearings by analyzing vibrational signals, enabling proactive preventive measures • Executed a Python implementation of a Hidden Markov Model utilizing the HMMLEARN library to precisely differentiate the health stages • Employed feature extraction techniques including Skweness & Root Mean Square to accurately determine fault occurrence time (FOT)
